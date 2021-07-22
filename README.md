@@ -1,4 +1,4 @@
-﻿**[hover-animation](https://github.com/meabhisingh/hover-animation)**
+**[hover-animation](https://github.com/meabhisingh/hover-animation)**
 
 ##### Animated Icons component built with React.
 
@@ -6,14 +6,22 @@
 
 ![enter image description here](https://i.ibb.co/tZ8TNzX/direction.gif)
 
+<<<<<<< HEAD
 _click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo_
+=======
+*click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo*
+>>>>>>> origin/main
 
 ## Demo 2
 
 ![enter image description here](https://i.ibb.co/xM67PS4/hover.gif)
 
+<<<<<<< HEAD
 _click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo_
 
+=======
+*click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo*
+>>>>>>> origin/main
 ## Installation
 
     npm install hover-animation
@@ -77,3 +85,7 @@ Youtube - Click [Here](http://youtube.com/c/6packprogrammer)
 Instagram - Click [Here](http://instagram.com/meabhisingh)
 
 LinkedIn - [Click](https://www.linkedin.com/in/meabhisingh/)
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
