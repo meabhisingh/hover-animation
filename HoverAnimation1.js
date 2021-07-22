@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 
-const HoverAnimation1 = ({
+const HoverAnimation = ({
   Icon,
   IconSize = "2vmax",
   Color = "white",
@@ -9,15 +9,17 @@ const HoverAnimation1 = ({
   Direction = "left",
   Circle = true,
   Padding = "1vmax",
-  Id1 = Math.random()
-    .toString(36)
-    .replace(/[^a-z]+/g, "")
-    .substr(0, 15),
-  Id2 = Math.random()
-    .toString(36)
-    .replace(/[^a-z]+/g, "")
-    .substr(0, 15),
 }) => {
+  const Id1 = Math.random()
+    .toString(36)
+    .replace(/[^a-z]+/g, "")
+    .substr(0, 15);
+
+  const Id2 = Math.random()
+    .toString(36)
+    .replace(/[^a-z]+/g, "")
+    .substr(0, 15);
+
   const findNumber = (param) => {
     const num = param.match(/(\d+)/);
     return num[0];
@@ -156,4 +158,4 @@ const HoverAnimation1 = ({
   );
 };
 
-export default HoverAnimation1;
+export default HoverAnimation;

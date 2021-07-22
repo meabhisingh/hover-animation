@@ -1,6 +1,6 @@
 {
   "name": "hover-animation",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is hover-animation React Component made by @meabhisingh",
   "main": "HoverAnimation1.js",
   "scripts": {

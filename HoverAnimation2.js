@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import "./HoverAnimation2.css";
 
-const HoverAnimation2 = ({
+const HoverAnimation = ({
   Icon,
   IconSize = "2vmax",
   Color = "white",
@@ -10,11 +10,12 @@ const HoverAnimation2 = ({
   Circle = true,
   Padding = "1vmax",
   Pace = "medium",
-  Id = Math.random()
+}) => {
+  const Id = Math.random()
     .toString(36)
     .replace(/[^a-z]+/g, "")
-    .substr(0, 15),
-}) => {
+    .substr(0, 15);
+
   const findNumber = (param) => {
     const num = param.match(/(\d+)/);
     return num[0];
@@ -97,4 +98,4 @@ const HoverAnimation2 = ({
   );
 };
 
-export default HoverAnimation2;
+export default HoverAnimation;
