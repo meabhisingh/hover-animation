@@ -5,10 +5,12 @@
 
 ## DEMO 1
 ![enter image description here](https://i.ibb.co/tZ8TNzX/direction.gif)
+
 *click [Here]([CodeSandbox](https://codesandbox.io/hover-animation)) to try demo*
 
 ## Demo 2
 ![enter image description here](https://i.ibb.co/xM67PS4/hover.gif)
+
 *click [Here]([CodeSandbox](https://codesandbox.io/hover-animation)) to try demo*
 ## Installation
 
