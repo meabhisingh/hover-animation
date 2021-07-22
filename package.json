@@ -14,5 +14,8 @@
     "Effect"
   ],
   "author": "@meabhisingh aka 6 Pack Programmer",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.14.5"
+  }
 }
