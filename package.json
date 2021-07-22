@@ -1,8 +1,9 @@
 {
   "name": "hover-animation",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This is hover-animation React Component made by @meabhisingh",
-  "main": "HoverAnimation1.js",
+  "main": "src/HoverAnimation1.js",
+  "module": "src/HoverAnimation1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf dist && NODE_ENV=production HOVEREFFECT src --out-dir dist --copy-files"
@@ -16,6 +17,8 @@
   ],
   "author": "@meabhisingh aka 6 Pack Programmer",
   "license": "ISC",
+  "private":"false",
+  "files": [ "src", "README.md" ],
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
