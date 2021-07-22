@@ -1,0 +1,10 @@
+@keyframes HoverAnimationGlowOn {
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+@keyframes HoverAnimationGlowOff {
+  to {
+    transform: rotateZ(0deg);
+  }
+}

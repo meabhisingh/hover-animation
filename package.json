@@ -1,0 +1,18 @@
+{
+  "name": "hover-animation",
+  "version": "1.0.0",
+  "description": "This is hover-animation React Component made by @meabhisingh",
+  "main": "HoverAnimation1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hover-animation",
+    "HoverAnimation",
+    "React",
+    "Hover",
+    "Effect"
+  ],
+  "author": "@meabhisingh aka 6 Pack Programmer",
+  "license": "ISC"
+}
