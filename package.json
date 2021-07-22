@@ -17,7 +17,7 @@
   ],
   "author": "@meabhisingh aka 6 Pack Programmer",
   "license": "ISC",
-  "private":"false",
+  "private":false,
   "files": [ "src", "README.md" ],
   "devDependencies": {
     "@babel/cli": "^7.14.8",
