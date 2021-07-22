@@ -1,4 +1,4 @@
-﻿**[hover-animation](https://github.com/meabhisingh/hover-animation)**
+**[hover-animation](https://github.com/meabhisingh/hover-animation)**
 
 ##### Animated Icons component built with React.
 
@@ -79,5 +79,4 @@ Youtube - Click [Here](http://youtube.com/c/6packprogrammer)
 Instagram - Click [Here](http://instagram.com/meabhisingh)
 
 LinkedIn - [Click](https://www.linkedin.com/in/meabhisingh/)
-
 
