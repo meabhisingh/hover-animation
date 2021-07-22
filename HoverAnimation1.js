@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 
-const HoverAnimation = ({
+const HoverAnimation1 = ({
   Icon,
   IconSize = "2vmax",
   Color = "white",
@@ -156,4 +156,4 @@ const HoverAnimation = ({
   );
 };
 
-export default HoverAnimation;
+export default HoverAnimation1;
