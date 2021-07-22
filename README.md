@@ -6,12 +6,12 @@
 ## DEMO 1
 ![enter image description here](https://i.ibb.co/tZ8TNzX/direction.gif)
 
-*click [Here](https://codesandbox.io/hover-animation) to try demo*
+*click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo*
 
 ## Demo 2
 ![enter image description here](https://i.ibb.co/xM67PS4/hover.gif)
 
-*click [Here](https://codesandbox.io/hover-animation) to try demo*
+*click [here](https://codesandbox.io/s/hover-animation-ls2ij?file=/src/App.js) to try demo*
 ## Installation
 
     npm install hover-animation
