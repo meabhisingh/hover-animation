@@ -4,7 +4,8 @@
   "description": "This is hover-animation React Component made by @meabhisingh",
   "main": "HoverAnimation1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist && NODE_ENV=production HOVEREFFECT src --out-dir dist --copy-files"
   },
   "keywords": [
     "hover-animation",
@@ -16,7 +17,13 @@
   "author": "@meabhisingh aka 6 Pack Programmer",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
     "@babel/plugin-syntax-jsx": "^7.14.5",
+    "@babel/preset-env": "^7.14.8",
     "@babel/preset-react": "^7.14.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
   }
 }
